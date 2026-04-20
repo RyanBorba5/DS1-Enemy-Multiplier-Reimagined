@@ -1,4 +1,4 @@
-DS1 Enemy Multiplier v2
+DS1 Enemy Multiplier v2 (Aggression Mode - no param = Normal Mode)
 =======================
 By hungryhyena78
 
