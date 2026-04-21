@@ -1,0 +1,9 @@
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\DS1 Enemy Multiplier.exe
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\DS1 Enemy Multiplier.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\DS1 Enemy Multiplier.deps.json
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\DS1 Enemy Multiplier.runtimeconfig.json
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\DS1 Enemy Multiplier.pdb
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\ZstdSharp.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\SoulsFormats.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\SoulsFormats.pdb
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\publish_output\SoulsFormats.xml

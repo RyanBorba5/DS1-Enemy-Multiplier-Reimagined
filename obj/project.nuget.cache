@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "npJa4GfXaWA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hungr\\source\\repos\\DS1 Enemy Multiplier\\DS1 Enemy Multiplier\\DS1 Enemy Multiplier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

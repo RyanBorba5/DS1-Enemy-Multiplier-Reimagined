@@ -1,0 +1,21 @@
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\DS1 Enemy Multiplier.exe
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\DS1 Enemy Multiplier.deps.json
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\DS1 Enemy Multiplier.runtimeconfig.json
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\DS1 Enemy Multiplier.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\DS1 Enemy Multiplier.pdb
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.AssemblyInfoInputs.cache
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.AssemblyInfo.cs
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.sourcelink.json
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\refint\DS1 Enemy Multiplier.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.pdb
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.genruntimeconfig.cache
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\ref\DS1 Enemy Multiplier.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enemy Multiplier.csproj.AssemblyReference.cache
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\ZstdSharp.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\SoulsFormats.dll
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\SoulsFormats.pdb
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\bin\Release\net8.0\SoulsFormats.xml
+C:\Users\Hungr\source\repos\DS1 Enemy Multiplier\DS1 Enemy Multiplier\obj\Release\net8.0\DS1 Enem.34CD446C.Up2Date

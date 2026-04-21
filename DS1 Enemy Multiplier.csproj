@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>DS1_Enemy_Multiplier</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="D:\Gaming\Dark Souls Modding\My Mods\SoulsFormats-master\SoulsFormats\SoulsFormats.csproj" />
+  </ItemGroup>
+
+</Project>
